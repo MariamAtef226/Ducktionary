@@ -19,7 +19,7 @@ studying English or reading a book & have met a word they're unfamiliar with and
 
 ### How to use :question:
 - Run the .exe file
-- Enter the word you'd like to know its meaning
+- Enter the word you'd like to know its meaning then press Quack
 - The application will display its definition as long as it's spelled correctly and it's an actual english word.
 - Else, it'll display to you ``` SORRY, WORD DOESN'T EXIST IN DICTIONARY!  ```
 - Also, if the .txt or the .png file isn't find in the same directory as the .exe file, it won't work.
