@@ -8,6 +8,7 @@ studying English or reading a book & have met a word they're unfamiliar with and
 - Ducktionary.exe  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _run the app from this file_
 - Merriam-Webster.txt   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   _source for dictionary_
 - rubber-duck1.png   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   _used graphic_
+- main.py &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   _source code_
 
 ### Used Language 💻
 
