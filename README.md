@@ -31,4 +31,4 @@ studying English or reading a book & have met a word they're unfamiliar with and
 
 <hr>
 
-#### Enjoy it 😉
+#### Enjoy 😉
